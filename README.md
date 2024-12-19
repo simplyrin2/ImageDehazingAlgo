@@ -35,6 +35,8 @@ Below are examples of the dehazing results using the provided algorithms:
 ![Dehazing Example](./Analysis/Output_1.png)
 ![Dehazing Example](./Analysis/Output_2.png)
 
+For more detailed results, check the repective Output folders.
+
 ## Comparison Metrics
 
 The performance of the dehazing algorithms is evaluated using the following metrics:
@@ -56,27 +58,6 @@ To run the provided notebooks, ensure you have the following dependencies instal
 
 2. **Optional Tools:**
    - A Jupyter Notebook environment such as JupyterLab or VS Code with the Jupyter extension.
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-   ```
-
-2. Install the required Python dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the desired notebook:
-   ```bash
-   jupyter notebook AOD_Net.ipynb
-   # or
-   jupyter notebook DCP.ipynb
-   ```
-
-4. Follow the instructions in the notebook to run the dehazing algorithms on sample images.
 
 ## Files Description
 ### 1. `AOD_Net.ipynb`
