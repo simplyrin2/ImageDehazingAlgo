@@ -74,8 +74,5 @@ To run the provided notebooks, ensure you have the following dependencies instal
   - Atmospheric light calculation.
   - Image dehazing using the physical model.
 
-## Example Results
-The notebooks include visualizations of dehazed images compared to their hazy counterparts. Adjust parameters as needed to optimize results for specific datasets.
-
 
 
