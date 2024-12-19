@@ -59,11 +59,10 @@ To run the provided notebooks, ensure you have the following dependencies instal
 ## Example Results
 The notebooks include visualizations of dehazed images compared to their hazy counterparts. Adjust parameters as needed to optimize results for specific datasets.
 
-## Contact
-For any queries or suggestions, please contact:
-- **Name**: [Your Name]
-- **Email**: [Your Email]
+### Example Output
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+Below are examples of the dehazing results using the provided algorithms:
+
+![Dehazing Example](Analysis\Output_1.png)
+![Dehazing Example](Analysis\Output_2.png)
 
