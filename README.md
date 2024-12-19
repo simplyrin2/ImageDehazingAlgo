@@ -13,17 +13,17 @@ The datasets used for evaluating the dehazing algorithms are as follows:
 
 2. **SMoke Dataset:**
     - **Description:** A dataset containing images affected by smoke with corresponding ground truth.
-    - **Link:** [SMoke Dataset](https://example.com/smoke-dataset)
+    - **Link:** [Smoke Dataset](https://www.kaggle.com/datasets/ahanray/smoke-real-dense-non-uniform-fog)
     - **Usage:** Used for evaluating the performance of dehazing algorithms on images affected by smoke.
 
 3. **SOTS-I Dataset:**
     - **Description:** Synthetic Objective Testing Set for indoor hazy images with corresponding ground truth.
-    - **Link:** [SOTS-I Dataset](https://example.com/sots-i-dataset)
+    - **Link:** [SOTS-I Dataset](https://sites.google.com/view/reside-dehaze-datasets/reside-v0)
     - **Usage:** Used for evaluating the performance of dehazing algorithms in indoor scenes.
 
 4. **SOTS-O Dataset:**
     - **Description:** Synthetic Objective Testing Set for outdoor hazy images with corresponding ground truth.
-    - **Link:** [SOTS-O Dataset](https://example.com/sots-o-dataset)
+    - **Link:** [SOTS-O Dataset](https://sites.google.com/view/reside-dehaze-datasets/reside-v0)
     - **Usage:** Used for evaluating the performance of dehazing algorithms in outdoor scenes.
 
 These datasets provide a comprehensive evaluation framework for comparing the effectiveness of different dehazing techniques.
