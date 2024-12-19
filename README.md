@@ -1,7 +1,14 @@
-# README: Image Dehazing Algorithms
+# Comparative Analysis of Image Dehazing Algorithms
 
 ## Overview
 This repository contains implementations of two image dehazing algorithms: **Dark Channel Prior (DCP)** and **All-In-One Dehazing Network (AOD-Net)**. These algorithms aim to restore image clarity by reducing haze and enhancing visual quality in images affected by atmospheric disturbances.
+
+### Example Output
+
+Below are examples of the dehazing results using the provided algorithms:
+
+![Dehazing Example](./Analysis/Output_1.png)
+![Dehazing Example](./Analysis/Output_2.png)
 
 ## Contents
 - `AOD_Net.ipynb`: Jupyter Notebook implementing the AOD-Net deep learning-based dehazing method.
@@ -59,10 +66,5 @@ To run the provided notebooks, ensure you have the following dependencies instal
 ## Example Results
 The notebooks include visualizations of dehazed images compared to their hazy counterparts. Adjust parameters as needed to optimize results for specific datasets.
 
-### Example Output
 
-Below are examples of the dehazing results using the provided algorithms:
-
-![Dehazing Example](Analysis\Output_1.png)
-![Dehazing Example](Analysis\Output_2.png)
 
